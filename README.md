@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![gopherdance](https://raw.githubusercontent.com/timriedl-sprinteins/timriedl-sprinteins/main/gopher-dance.gif)
 <!--
 **rebeccaschmid-sprinteins/rebeccaschmid-sprinteins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
